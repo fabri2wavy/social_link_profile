@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Frontend Mentor - Social links profile
 # Fabricio Villalba
 
