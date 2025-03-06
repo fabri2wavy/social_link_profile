@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Social links profile
 # Fabricio Villalba
 
@@ -92,3 +93,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# social_link_profile
+reto frontend mentor
+>>>>>>> 5bd517657800e48fda52c96ef0c77c483fb3d0db
