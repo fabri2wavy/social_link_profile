@@ -14,7 +14,6 @@
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
-
 body {
   background: var(--Grey-900);
   height: 100vh;
@@ -22,7 +21,6 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-
 .profile {
   background: var(--Grey-800);
   display: flex;
